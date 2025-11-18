@@ -88,3 +88,4 @@ Make a PR to remove yourself if you want to do it again
 - [obl3d](https://github.com/obl3d)
 - [yusufahmed21](https://github.com/yusufahmed21)
 - [dubaichocolate999](https://github.com/dubaichocolate999)
+- [american-tech](https://github.com/american-tech)
