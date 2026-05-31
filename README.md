@@ -101,3 +101,4 @@ Make a PR to remove yourself if you want to do it again
 - [hestabshim](https://github.com/hestabshim)
 - [rayhanadev](https://github.com/rayhanadev)
 - [ArhanChaudhary](https://github.com/ArhanChaudhary)
+- [KennanHunter](https://github.com/KennanHunter)
