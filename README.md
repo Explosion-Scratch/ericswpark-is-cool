@@ -108,3 +108,4 @@ Make a PR to remove yourself if you want to do it again
 - [SnO2WMaN](https://github.com/SnO2WMaN)
 - [cannorin](https://github.com/cannorin)
 - [netfri25](https://github.com/netfri25)
+- [kdkasad](https://github.com/kdkasad)
